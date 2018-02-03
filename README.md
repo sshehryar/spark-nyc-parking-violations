@@ -1,5 +1,7 @@
 # Exploring Parking Violations in New York City Using Python and Spark
 
+*Datasets (you'd need parking-violations.csv and open-violations.csv) can be downloaded from https://vgc.poly.edu/~juliana/courses/BigData2017/Data/parking-violations.tar.gz*
+
 ### Task 1
 Write a Spark program that finds all parking violations that have been paid, i.e., that do not occur in openviolations.csv.
 
